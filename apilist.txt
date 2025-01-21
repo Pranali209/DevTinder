@@ -1,0 +1,27 @@
+###Auth routers
+post/signup
+post/login
+post/logout
+patch/password/forgotPassword
+
+###User routers
+get/Allusers   
+get/allreceivedRequests
+get/allsentRequests
+
+
+###Connection routers
+post/profile/interested/userId
+post/profile/rejected/userId
+post/profile/accepted/requestId
+post/profile/ignored/requestId
+
+
+###profile edit
+post/profile/view
+post/profile/create
+patch/profile/edit
+
+
+
+allusers : 
